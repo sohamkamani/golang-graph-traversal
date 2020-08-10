@@ -1,6 +1,6 @@
 # Graph Traversal Algorithms
 
-This is the example repository for my [blog post](https://codetree.dev/) on graph traversal algorithms.
+This is the example repository for my [blog post](https://codetree.dev/golang-graph-traversal/) on graph traversal algorithms.
 
 To run the tests, clone the repository and run:
 
